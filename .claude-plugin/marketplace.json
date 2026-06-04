@@ -1,19 +1,19 @@
 {
-  "name": "cc-marketplace",
+  "name": "claude-marketplace",
   "owner": {
     "name": "S-T-3-V-3"
   },
   "plugins": [
     {
-      "name": "agent-dispatcher",
+      "name": "superpowers-enhanced",
       "source": {
         "source": "url",
-        "url": "https://github.com/S-T-3-V-3/agent-dispatcher.git"
+        "url": "https://github.com/ST3V3ai/superpowers-enhanced.git"
       },
-      "description": "Route planning, architecture, and review work through configurable AI CLIs",
-      "version": "0.3.0",
+      "description": "Enhanced Superpowers skills and workflows for Claude Code",
+      "version": "0.1.0",
       "author": {
-        "name": "S-T-3-V-3"
+        "name": "Steve Hughes"
       }
     }
   ]
