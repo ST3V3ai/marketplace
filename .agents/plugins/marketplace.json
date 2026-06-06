@@ -1,11 +1,13 @@
 {
   "name": "st3v3-marketplace",
   "interface": {
-    "displayName": "ST3V3 Marketplace"
+    "displayName": "ST3V3 Marketplace",
+    "shortDescription": "Provider-agnostic agent workflow plugins for better planning, execution, and quality of life."
   },
   "plugins": [
     {
       "name": "superpowers-enhanced",
+      "description": "Superpowers for browser-first brainstorming, implementation planning, and reviewed execution across agent clients.",
       "source": {
         "source": "url",
         "url": "https://github.com/ST3V3ai/superpowers-enhanced.git"

@@ -1,7 +1,8 @@
 {
   "name": "st3v3-marketplace",
+  "description": "Provider-agnostic agent workflow plugins focused on quality of life, planning, and better verified results.",
   "owner": {
-    "name": "S-T-3-V-3"
+    "name": "ST3V3ai"
   },
   "plugins": [
     {
@@ -10,11 +11,12 @@
         "source": "url",
         "url": "https://github.com/ST3V3ai/superpowers-enhanced.git"
       },
-      "description": "Enhanced Superpowers skills and workflows for Claude Code",
-      "version": "0.1.11",
+      "description": "Provider-agnostic Superpowers for browser-first brainstorming, implementation planning, and reviewed execution.",
+      "version": "0.1.16",
       "author": {
         "name": "Steve Hughes"
-      }
+      },
+      "homepage": "https://github.com/ST3V3ai/superpowers-enhanced"
     }
   ]
 }
