@@ -1,0 +1,20 @@
+{
+  "name": "st3v3-marketplace",
+  "interface": {
+    "displayName": "ST3V3 Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "superpowers-enhanced",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ST3V3ai/superpowers-enhanced.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
